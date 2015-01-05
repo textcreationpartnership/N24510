@@ -110,15 +110,17 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:032439_0000_0FF26423D2AABB78"/>
-            <pb facs="tcp:032439_0001_0FF263D32E268B70" rendition="simple:additions"/>
+            <pb facs="unknown:032439_0000_0FF26423D2AABB78"/>
+            <pb facs="unknown:032439_0001_0FF263D32E268B70"
+                rendition="simple:additions"/>
             <p>MASONIC.</p>
             <p>SONGS, ORATORIO, ODES, ANTHEMS, PROLOGUES, EPILOGUES, AND TOASTS: ADAPTED TO THE DIFFERENT DEGREES OF <hi>MASONRY.</hi>
             </p>
             <p>WATERFORD: COMPILED, PRINTED, &amp; PUBLISHED, BY BROTHER JAMES LYON. IN THE YEAR OF LIGHT, VMDCCXCVII.</p>
          </div>
          <div type="sanction">
-            <pb facs="tcp:032439_0002_0FF263D4D2B82128" rendition="simple:additions"/>
+            <pb facs="unknown:032439_0002_0FF263D4D2B82128"
+                rendition="simple:additions"/>
             <head>SANCTION <hi>of</hi> ORANGE LODGE, —No. 47.—</head>
             <p>HAVING examined BROTHER LYON'S "COLLECTION OF MASON<g ref="char:EOLhyphen"/>IC SONGS, ODES, ANTHEMS," &amp;c. contained in the following ſheets, we find in it the greateſt variety and beſt ſelected compilation, which has come within our knowledge, judiciouſly mod<g ref="char:EOLhyphen"/>ernized, and well adapted to promote harmony, and as ſuch we recommend it to the uſe of the FRATERNITY.</p>
             <closer>
@@ -138,7 +140,7 @@
             </closer>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:032439_0003_0FF263D6A76B4F00"/>
+            <pb facs="unknown:032439_0003_0FF263D6A76B4F00"/>
             <head>CONTENTS.</head>
             <list>
                <item>ORATORIO. <hi>Page</hi> 5</item>
@@ -167,7 +169,7 @@
                   </list>
                </item>
                <item>
-                  <pb n="iv" facs="tcp:032439_0004_0FF263DEE797BE00"/>
+                  <pb n="iv" facs="unknown:032439_0004_0FF263DEE797BE00"/>
 KNIGHTS TEMPLARS' SONGS. <list>
                      <item>GOD bleſs the royal band, <hi>Page</hi> 105</item>
                      <item>With friendly aid let us unite <hi>Page</hi> 116</item>
@@ -212,7 +214,7 @@ KNIGHTS TEMPLARS' SONGS. <list>
                </item>
             </list>
             <list>
-               <pb facs="tcp:032439_0005_0FF263E087F2D5F8"/>
+               <pb facs="unknown:032439_0005_0FF263E087F2D5F8"/>
                <head>SONGS <hi>adapted to the three firſt degrees of</hi> MASONRY.</head>
                <item>A <list>
                      <item>ADIEU, a heart, fond, warm, adieu, <hi>Page</hi> 51</item>
@@ -251,7 +253,7 @@ KNIGHTS TEMPLARS' SONGS. <list>
                   </list>
                </item>
                <item>
-                  <pb facs="tcp:032439_0006_0FF263E473C26D60"/>
+                  <pb facs="unknown:032439_0006_0FF263E473C26D60"/>
 L <list>
                      <item>LET Maſonry, from pole to pole, <hi>Page</hi> 68</item>
                      <item>Let drunkards boaſt the power, &amp;c. <hi>Page</hi> 73</item>
@@ -289,7 +291,7 @@ L <list>
                      <item>With harmony and flowing wine, <hi>Page</hi> 123</item>
                      <item>When Maſonry, by heaven's deſign, <hi>Page</hi> 127</item>
                      <item>
-                        <pb n="vii" facs="tcp:032439_0007_0FF263E61AFF7408"/>
+                        <pb n="vii" facs="unknown:032439_0007_0FF263E61AFF7408"/>
 We have no idle prating, <hi>Page</hi> 90</item>
                   </list>
                </item>
@@ -311,7 +313,7 @@ We have no idle prating, <hi>Page</hi> 90</item>
       </front>
       <body>
          <div type="oratorio">
-            <pb facs="tcp:032439_0008_0FF263E9D320BA80"/>
+            <pb facs="unknown:032439_0008_0FF263E9D320BA80"/>
             <head>ORATORIO.</head>
             <head>SOLOMON's TEMPLE.</head>
             <p>[As it was performed for the BENEFIT of SICK and DISTRESSED FREE MASONS.]</p>
@@ -338,7 +340,7 @@ We have no idle prating, <hi>Page</hi> 90</item>
                   <l>CONVEN'D we're met—chief ora<g ref="char:EOLhyphen"/>cle of heav'n,</l>
                   <l>To whom the ſacred myſteries are giv'n;</l>
                   <l>
-                     <pb n="6" facs="tcp:032439_0009_0FF263ED897D7D38"/>
+                     <pb n="6" facs="unknown:032439_0009_0FF263ED897D7D38"/>
 We're met to bid a ſplendid fabric riſe,</l>
                   <l>Worthy the mighty ruler of the ſkies.</l>
                </sp>
@@ -373,7 +375,7 @@ We're met to bid a ſplendid fabric riſe,</l>
                      <hi>Adam,</hi> well vers'd in arts,</l>
                   <l>Gave to his ſons the plumb and line;</l>
                   <l>
-                     <pb n="7" facs="tcp:032439_0010_0FF263F39C5A3D60"/>
+                     <pb n="7" facs="unknown:032439_0010_0FF263F39C5A3D60"/>
 By Maſonry, ſage <hi>Tubal Cain,</hi>
                   </l>
                   <l>To the deep organ tun'd the ſtrain.</l>
@@ -410,7 +412,7 @@ By Maſonry, ſage <hi>Tubal Cain,</hi>
                   <l>Who bid young <hi>Solomon</hi> the temple raiſe.</l>
                </sp>
                <sp>
-                  <pb n="8" facs="tcp:032439_0011_0FF263F550403B88"/>
+                  <pb n="8" facs="unknown:032439_0011_0FF263F550403B88"/>
                   <speaker>SOLOMON.</speaker>
                   <stage>RECITATIVE.</stage>
                   <l>So grand a ſtructure ſhall we raiſe,</l>
@@ -444,7 +446,7 @@ By Maſonry, ſage <hi>Tubal Cain,</hi>
                   <l>Not like <hi>Babel's</hi> haughty building,</l>
                   <l>Shall our greater lodge be fram'd;</l>
                   <l>
-                     <pb n="9" facs="tcp:032439_0012_0FF263FB379DA008"/>
+                     <pb n="9" facs="unknown:032439_0012_0FF263FB379DA008"/>
 That to hideous jargon yielding,</l>
                   <l>Juſtly was a <hi>Babel</hi> nam'd:</l>
                   <l>There confuſion all o'erbearing,</l>
@@ -473,7 +475,7 @@ That to hideous jargon yielding,</l>
                </sp>
             </div>
             <div n="2" type="act">
-               <pb n="10" facs="tcp:032439_0013_0FF2640360836510"/>
+               <pb n="10" facs="unknown:032439_0013_0FF2640360836510"/>
                <head>
                   <hi>ACT</hi> II.</head>
                <div n="1" type="scene">
@@ -508,7 +510,7 @@ That to hideous jargon yielding,</l>
                      <l>Thus <hi>Phoebe,</hi> queen of ſhade and night,</l>
                      <l>Owning the ſun's ſuperior rays,</l>
                      <l>
-                        <pb n="11" facs="tcp:032439_0014_0FF2640501A77258"/>
+                        <pb n="11" facs="unknown:032439_0014_0FF2640501A77258"/>
 With feeble glory, leſſer light,</l>
                      <l>Attends the triumph of his blaze:</l>
                      <l>Oh, all excelling Prince, receive</l>
@@ -538,7 +540,7 @@ With feeble glory, leſſer light,</l>
                   </sp>
                   <stage>Da capo.</stage>
                   <sp>
-                     <pb n="12" facs="tcp:032439_0015_0FF26406B8904920"/>
+                     <pb n="12" facs="unknown:032439_0015_0FF26406B8904920"/>
                      <speaker>SOLOMON.</speaker>
                      <stage>RECITATIVE.</stage>
                      <l>
@@ -563,7 +565,7 @@ With feeble glory, leſſer light,</l>
                      <l>Where the ſun's warmer beams fierce<g ref="char:EOLhyphen"/>ly burn,</l>
                      <l>The Princeſs with tranſport ſhall ſay:</l>
                      <l>
-                        <pb n="13" facs="tcp:032439_0016_0FF2640EB4F80348"/>
+                        <pb n="13" facs="unknown:032439_0016_0FF2640EB4F80348"/>
 Well worthy my journey, I've ſeen</l>
                      <l>A Monarch both graceful and wiſe,</l>
                      <l>Deſerving the love of a Queen,</l>
@@ -591,7 +593,7 @@ Well worthy my journey, I've ſeen</l>
                      <l>Nor treaſures of rich <hi>Ophir</hi>'s mine,</l>
                      <l>Excel the Maſon's heart:</l>
                      <l>
-                        <pb n="14" facs="tcp:032439_0017_0FF26410576BE538"/>
+                        <pb n="14" facs="unknown:032439_0017_0FF26410576BE538"/>
 True to the fair he honors, more</l>
                      <l>Than glittering gems of brighteſt ore,</l>
                      <l>The plighted pledge of love:</l>
@@ -626,7 +628,7 @@ True to the fair he honors, more</l>
                      <l>Our art to raiſe, our hearts to join.</l>
                   </sp>
                   <sp>
-                     <pb n="15" facs="tcp:032439_0018_0FF264186C28B3E8"/>
+                     <pb n="15" facs="unknown:032439_0018_0FF264186C28B3E8"/>
                      <stage>CHORUS.</stage>
                      <l>Give to Maſonry the prize,</l>
                      <l>Where the faireſt chooſe the wiſe;</l>
@@ -637,7 +639,7 @@ True to the fair he honors, more</l>
             </div>
          </div>
          <div type="odes">
-            <pb facs="tcp:032439_0019_0FF2641A2D0CCA88"/>
+            <pb facs="unknown:032439_0019_0FF2641A2D0CCA88"/>
             <head>ODES.</head>
             <div type="ode">
                <lg>
@@ -654,7 +656,7 @@ True to the fair he honors, more</l>
                   <l>To works of Art HER merit not con<g ref="char:EOLhyphen"/>ſin'd,</l>
                   <l>SHE regulates the morals, ſquares the mind;</l>
                   <l>
-                     <pb n="18" facs="tcp:032439_0020_0FF2642232FE5628"/>
+                     <pb n="18" facs="unknown:032439_0020_0FF2642232FE5628"/>
 Corrects with care the ſallies of the ſoul,</l>
                   <l>And points the tide of paſſions where to roll:</l>
                   <l>On Virtue's tablet marks HER moral rule,</l>
@@ -674,8 +676,8 @@ Corrects with care the ſallies of the ſoul,</l>
             <div type="ode">
                <head>ODE.</head>
                <byline>[Written by a Member of the ALFRID LODGE at OXFORD, ſet to Muſic by Dr. FISHER, and performed at the Dedication of FREE-MASONS HALL.]</byline>
-               <pb facs="tcp:032439_0021_0FF263C30CBCF0C8"/>
-               <pb n="27" facs="tcp:032439_0022_0FF2642570529330"/>
+               <pb facs="unknown:032439_0021_0FF263C30CBCF0C8"/>
+               <pb n="27" facs="unknown:032439_0022_0FF2642570529330"/>
                <lg>
                   <l>Rapid zephyrs, as ye fly,</l>
                   <l>Waft our voices to the ſky;</l>
@@ -709,7 +711,7 @@ Corrects with care the ſallies of the ſoul,</l>
                   <l>Was ſoon thy glory to proclaim.</l>
                </lg>
                <lg>
-                  <pb n="28" facs="tcp:032439_0023_0FF264293817F858"/>
+                  <pb n="28" facs="unknown:032439_0023_0FF264293817F858"/>
                   <l>Thy <hi>watchful eye,</hi> a length of time,</l>
                   <l>The wond'rous <hi>circle</hi> did attend:</l>
                   <l>The glory and the power be thine,</l>
@@ -743,7 +745,7 @@ Corrects with care the ſallies of the ſoul,</l>
                   <l>By heaven and earth ador'd</l>
                   <l>All hail! great God!</l>
                   <l>
-                     <pb n="29" facs="tcp:032439_0024_0FF26431393ED0D0"/>
+                     <pb n="29" facs="unknown:032439_0024_0FF26431393ED0D0"/>
 Before thy name we bend,</l>
                   <l>To us thy grace extend,</l>
                   <l>And to our prayer attend.</l>
@@ -778,7 +780,7 @@ Before thy name we bend,</l>
                </lg>
             </div>
             <div type="ode">
-               <pb n="30" facs="tcp:032439_0025_0FF26434F38773B8"/>
+               <pb n="30" facs="unknown:032439_0025_0FF26434F38773B8"/>
                <head>ODE.</head>
                <byline>By Brother FENNER.</byline>
                <lg>
@@ -807,7 +809,7 @@ Before thy name we bend,</l>
                   <l>Maſons purſue the truth divine,</l>
                   <l>We cannot go aſtray,</l>
                   <l>
-                     <pb n="31" facs="tcp:032439_0026_0FF264369DFFE2C8"/>
+                     <pb n="31" facs="unknown:032439_0026_0FF264369DFFE2C8"/>
 Since three great lights conjointly ſhine,</l>
                   <l>To point us out the way.</l>
                   <l>Zion appears, rejoice, rejoice,</l>
@@ -826,7 +828,7 @@ Since three great lights conjointly ſhine,</l>
             </div>
          </div>
          <div type="anthems">
-            <pb facs="tcp:032439_0027_0FF264384B8BFE60"/>
+            <pb facs="unknown:032439_0027_0FF264384B8BFE60"/>
             <head>ANTHEMS.</head>
             <div type="anthem">
                <head>ANTHEM.</head>
@@ -850,7 +852,7 @@ Since three great lights conjointly ſhine,</l>
                   <l>No prying eye can view us here;</l>
                   <l>No fool or knave diſturb our cheer;</l>
                   <l>
-                     <pb n="33" facs="tcp:032439_0028_0FF2643E8BCF9710"/>
+                     <pb n="33" facs="unknown:032439_0028_0FF2643E8BCF9710"/>
 Our well form'd laws ſet mankind free,</l>
                   <l>And give relief to Miſery:</l>
                   <l>The poor, oppreſs'd with woe and grief,</l>
@@ -879,7 +881,7 @@ Our well form'd laws ſet mankind free,</l>
                   <l>Great, noble, gen'rous, good and brave;</l>
                   <l>All virtues they moſt juſtly claim;</l>
                   <l>
-                     <pb n="34" facs="tcp:032439_0029_0FF2644252947C28"/>
+                     <pb n="34" facs="unknown:032439_0029_0FF2644252947C28"/>
 Their deeds ſhall live beyond the grave,</l>
                   <l>And thoſe unborn their praiſe pro<g ref="char:EOLhyphen"/>claim.</l>
                   <l>Time ſhall their glorious acts enrol,</l>
@@ -908,7 +910,7 @@ Their deeds ſhall live beyond the grave,</l>
                   <l>In choral numbers, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="35" facs="tcp:032439_0030_0FF26443F8A44E20"/>
+                  <pb n="35" facs="unknown:032439_0030_0FF26443F8A44E20"/>
                   <l>The widow's tear—the orphan's cry—</l>
                   <l>All wants—our ready hands ſupply,</l>
                   <l>As far as power is given!</l>
@@ -934,7 +936,7 @@ Their deeds ſhall live beyond the grave,</l>
             </div>
          </div>
          <div type="prologues">
-            <pb facs="tcp:032439_0031_0FF26447C40D3B40"/>
+            <pb facs="unknown:032439_0031_0FF26447C40D3B40"/>
             <head>PROLOGUES.</head>
             <div type="prologue">
                <head>PROLOGUE.</head>
@@ -953,7 +955,7 @@ Their deeds ſhall live beyond the grave,</l>
                   <l>Beneath its ruins long the treaſure lay,</l>
                   <l>'Till by an Arab robber brought to day.</l>
                   <l>
-                     <pb n="38" facs="tcp:032439_0032_0FF26451F54EBA80"/>
+                     <pb n="38" facs="unknown:032439_0032_0FF26451F54EBA80"/>
 Unconſcious of the prize, he trudg'd along,</l>
                   <l>And ſold it to a Bramin for a ſong.</l>
                   <l>Thence in Bengal thro' various hands it paſt,</l>
@@ -977,7 +979,7 @@ Unconſcious of the prize, he trudg'd along,</l>
                   <l>The Brethren all were met, a ſocial board:</l>
                   <l>I ſaw unterrified the guardian ſword.</l>
                   <l>
-                     <pb n="39" facs="tcp:032439_0033_0FF2645395894288"/>
+                     <pb n="39" facs="unknown:032439_0033_0FF2645395894288"/>
 I ſaw—I ſaw—and now your ears pre<g ref="char:EOLhyphen"/>pare;</l>
                   <l>What I then ſaw I'll publicly declare.</l>
                   <l>Clear'd was my mental eye—I ſaw each grace,</l>
@@ -999,7 +1001,7 @@ I ſaw—I ſaw—and now your ears pre<g ref="char:EOLhyphen"/>pare;</l>
                   <l>And tho' the doors are barr'd 'gainſt you, ye Fair,</l>
                   <l>Your darling repreſentative was there,</l>
                   <l>
-                     <pb n="40" facs="tcp:032439_0034_0FF26457556660D8"/>
+                     <pb n="40" facs="unknown:032439_0034_0FF26457556660D8"/>
 Sweet <hi>Modeſty</hi>—Amid the moral lay,</l>
                   <l>To you her tribute did remembrance pay.</l>
                   <l>I ſaw each horeſt heart with tranſport flow,</l>
@@ -1024,7 +1026,7 @@ Sweet <hi>Modeſty</hi>—Amid the moral lay,</l>
                   <l>But now the honourable badge I wear</l>
                   <l>Gives an indelible high character;</l>
                   <l>
-                     <pb n="41" facs="tcp:032439_0035_0FF26458F6453040"/>
+                     <pb n="41" facs="unknown:032439_0035_0FF26458F6453040"/>
 And thus by our Grand Maſter I am ſent,</l>
                   <l>To tell you what by Maſonry is meant.</l>
                   <l>If all the ſocial virtues of the mind;</l>
@@ -1039,7 +1041,7 @@ And thus by our Grand Maſter I am ſent,</l>
             </div>
          </div>
          <div type="songs">
-            <pb facs="tcp:032439_0036_0FF2645AA0574430"/>
+            <pb facs="unknown:032439_0036_0FF2645AA0574430"/>
             <head>SONGS.</head>
             <div type="song">
                <head>
@@ -1067,7 +1069,7 @@ And thus by our Grand Maſter I am ſent,</l>
                   <l>And when return'd, began to trace</l>
                   <l>And imitate its lofty ſtile.</l>
                   <l>
-                     <pb n="44" facs="tcp:032439_0037_0FF26466F5A6CD60"/>
+                     <pb n="44" facs="unknown:032439_0037_0FF26466F5A6CD60"/>
 At length the GRECIANS came to know</l>
                   <l>GEOMETRY, and learn'd the <hi>art</hi>
                   </l>
@@ -1096,7 +1098,7 @@ At length the GRECIANS came to know</l>
                   </l>
                   <l>And taught the world the art to build.</l>
                   <l>
-                     <pb n="45" facs="tcp:032439_0038_0FF264689ADE47D8"/>
+                     <pb n="45" facs="unknown:032439_0038_0FF264689ADE47D8"/>
 Witneſs their <hi>Citadels</hi> and <hi>Tow'rs,</hi>
                   </l>
                   <l>To fortify their legions fine,</l>
@@ -1133,7 +1135,7 @@ Witneſs their <hi>Citadels</hi> and <hi>Tow'rs,</hi>
                   <l>Which doth with jewels precious ſhine,</l>
                   <l>From all but Maſons eyes conceal'd:</l>
                   <l>
-                     <pb n="46" facs="tcp:032439_0039_0FF2646A410E08E8"/>
+                     <pb n="46" facs="unknown:032439_0039_0FF2646A410E08E8"/>
 Thy praiſes due, who can rehearſe,</l>
                   <l>In nervous proſe, or flowing verſe?</l>
                </lg>
@@ -1162,7 +1164,7 @@ Thy praiſes due, who can rehearſe,</l>
                   <l>Diſtinguiſh'd by the badge they wear.</l>
                </lg>
                <lg>
-                  <pb n="47" facs="tcp:032439_0040_0FF2646C0C4EA280"/>
+                  <pb n="47" facs="unknown:032439_0040_0FF2646C0C4EA280"/>
                   <l>Sweet fellowſhip, from envy ſree,</l>
                   <l>Friendly converſe of brotherhood;</l>
                   <l>The lodge's laſting cement be,</l>
@@ -1190,7 +1192,7 @@ Thy praiſes due, who can rehearſe,</l>
                   <l>In whom the ſons of ſcience ſind</l>
                   <l>No ſly diſſimulation—</l>
                   <l>
-                     <pb n="48" facs="tcp:032439_0041_0FF26476938CDE18"/>
+                     <pb n="48" facs="unknown:032439_0041_0FF26476938CDE18"/>
 Accept a tribute, juſtly due,</l>
                   <l>From a fond heart, faithful and true;</l>
                   <l>Accept my tender, laſt adieu;</l>
@@ -1221,7 +1223,7 @@ Accept a tribute, juſtly due,</l>
                   <l>And all unkindneſs, from my ſight,</l>
                   <l>I'll baniſh to eternal night.</l>
                   <l>
-                     <pb n="49" facs="tcp:032439_0042_0FF264782E645BA8"/>
+                     <pb n="49" facs="unknown:032439_0042_0FF264782E645BA8"/>
 Let us be</l>
                   <l>Maſons free—</l>
                   <l>Forgive, likewiſe forgiven be;—</l>
@@ -1251,7 +1253,7 @@ Let us be</l>
                   <l>With a mind</l>
                   <l>Juſt and kind;</l>
                   <l>
-                     <pb n="50" facs="tcp:032439_0043_0FF2647C01DA51C8"/>
+                     <pb n="50" facs="unknown:032439_0043_0FF2647C01DA51C8"/>
 All their pleaſures are refin'd:</l>
                   <l>So happy is a MASON.</l>
                </lg>
@@ -1282,7 +1284,7 @@ All their pleaſures are refin'd:</l>
                   <l>Belong to ev'ry MASON.</l>
                </lg>
                <lg>
-                  <pb n="51" facs="tcp:032439_0044_0FF26484059B3610"/>
+                  <pb n="51" facs="unknown:032439_0044_0FF26484059B3610"/>
                   <l>May friendſhip, harmony, and love,</l>
                   <l>Your guardians and companions prove,</l>
                   <l>Till the Celeſtial Lodge above</l>
@@ -1314,7 +1316,7 @@ All their pleaſures are refin'd:</l>
                   <l>Oft have I met your ſocial band,</l>
                   <l>To ſpend a cheerful, feſtive night;</l>
                   <l>
-                     <pb n="52" facs="tcp:032439_0045_0FF26487CDB07888"/>
+                     <pb n="52" facs="unknown:032439_0045_0FF26487CDB07888"/>
 Oft honor'd with ſupreme command,</l>
                   <l>Preſided o'er the ſons of light,</l>
                   <l>And by that hyeroglyphic bright,</l>
@@ -1346,7 +1348,7 @@ Oft honor'd with ſupreme command,</l>
                   <l>And you kind-hearted ſiſters fair,</l>
                   <l>I ſing farewell to all your charms,</l>
                   <l>
-                     <pb n="53" facs="tcp:032439_0046_0FF2648BC3291500"/>
+                     <pb n="53" facs="unknown:032439_0046_0FF2648BC3291500"/>
 Th' impreſſion of your pleaſing air,</l>
                   <l>With rapture oft my boſom warms.</l>
                   <l>Alas! the ſocial winter's night</l>
@@ -1374,7 +1376,7 @@ Th' impreſſion of your pleaſing air,</l>
                   <l>The right word or ſign</l>
                   <l>Of a Free and an Accepted Maſon.</l>
                   <l>
-                     <pb n="54" facs="tcp:032439_0047_0FF2648D65E7F6D8"/>
+                     <pb n="54" facs="unknown:032439_0047_0FF2648D65E7F6D8"/>
 'Tis this and 'tis that,</l>
                   <l>They cannot tell what,</l>
                   <l>Nor why the great men of the nation</l>
@@ -1407,7 +1409,7 @@ Th' impreſſion of your pleaſing air,</l>
                   <l>The Ladies adore</l>
                   <l>Than a Free and an Accepted Maſon.</l>
                   <l>
-                     <pb n="55" facs="tcp:032439_0048_0FF2649122FAAA88"/>
+                     <pb n="55" facs="unknown:032439_0048_0FF2649122FAAA88"/>
 Then join hand in hand,</l>
                   <l>By each Brother firm ſtand,</l>
                   <l>Let's be merry and put a bright face on.</l>
@@ -1443,7 +1445,7 @@ Then join hand in hand,</l>
                   <l>And Veſpaſian deſtroy'd the vaſt temple in vain,</l>
                   <l>Since ſo many now riſe where our principles reign.</l>
                   <l>
-                     <pb n="56" facs="tcp:032439_0049_0FF26494DCB64010"/>
+                     <pb n="56" facs="unknown:032439_0049_0FF26494DCB64010"/>
 The noble five Orders, compos'd with ſuch art,</l>
                   <l>Will amaze the fix'd eye, and engage the whole heart;</l>
                   <l>Proportion's ſweet harmony gracing the whole,</l>
@@ -1462,7 +1464,7 @@ The noble five Orders, compos'd with ſuch art,</l>
                   <l>Who better can work, or who better agree.</l>
                </lg>
                <lg>
-                  <pb n="61" facs="tcp:032439_0050_0FF264967967D4D0"/>
+                  <pb n="61" facs="unknown:032439_0050_0FF264967967D4D0"/>
                   <l>In air he hung the pendent world,</l>
                   <l>And o'er it ſpread the azure ſkies;</l>
                   <l>Stars in circles caus'd to run,</l>
@@ -1494,7 +1496,7 @@ The noble five Orders, compos'd with ſuch art,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="62" facs="tcp:032439_0051_0FF26498281E5ED8"/>
+               <pb n="62" facs="unknown:032439_0051_0FF26498281E5ED8"/>
                <head>SONG.</head>
                <p>[<hi>Tune,</hi> Rule Britannia.]</p>
                <lg>
@@ -1529,7 +1531,7 @@ The noble five Orders, compos'd with ſuch art,</l>
                         <desc>〈…〉</desc>
                      </gap> maſonic ground:</l>
                   <l>
-                     <pb n="63" facs="tcp:032439_0052_0FF264A0A33F4120"/>
+                     <pb n="63" facs="unknown:032439_0052_0FF264A0A33F4120"/>
 True to your duty, your anceſtors and land,</l>
                   <l>Let SAWBRIDGE lead a worthy band.</l>
                </lg>
@@ -1559,7 +1561,7 @@ True to your duty, your anceſtors and land,</l>
                   <l>Brother helps Brother,</l>
                   <l>No mortals on earth are ſo friendly as we,</l>
                   <l>
-                     <pb n="64" facs="tcp:032439_0053_0FF264A8E040F928"/>
+                     <pb n="64" facs="unknown:032439_0053_0FF264A8E040F928"/>
 When firſt attic fire mortals glory be<g ref="char:EOLhyphen"/>came,</l>
                   <l>Tho' ſmall was the ſpark, it ſoon grew to a flame;</l>
                   <l>As Phoebus celeſtial tranſcendently bright</l>
@@ -1582,7 +1584,7 @@ When firſt attic fire mortals glory be<g ref="char:EOLhyphen"/>came,</l>
                   <l>Coxcomical pedants may ſay what they can,</l>
                   <l>Abuſe us, ill uſe us, and laugh at our plan;</l>
                   <l>
-                     <pb n="65" facs="tcp:032439_0054_0FF264AA83E80FA0"/>
+                     <pb n="65" facs="unknown:032439_0054_0FF264AA83E80FA0"/>
 We'll temper our mortar, enliven our ſouls,</l>
                   <l>And join in full chorus o'er full flowing bowls.</l>
                   <l>We always, &amp;c.</l>
@@ -1614,7 +1616,7 @@ We'll temper our mortar, enliven our ſouls,</l>
                      </gap>
                   </l>
                   <l>
-                     <pb n="66" facs="tcp:032439_0055_0FF264AC3ABFE6D8"/>
+                     <pb n="66" facs="unknown:032439_0055_0FF264AC3ABFE6D8"/>
 Envy may every ill deviſe,</l>
                   <l>And falſehood be thy deadlieſt foe,</l>
                   <l>Thou friendſhip ſtill ſhalt towering riſe,</l>
@@ -1646,7 +1648,7 @@ Envy may every ill deviſe,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="67" facs="tcp:032439_0056_0FF264B2527F90B0"/>
+               <pb n="67" facs="unknown:032439_0056_0FF264B2527F90B0"/>
                <head>SONG.</head>
                <p>[<hi>Tune,</hi> Arno's Vale.]</p>
                <lg>
@@ -1677,7 +1679,7 @@ Envy may every ill deviſe,</l>
                   <l>While Truth maintains deſpotic power,</l>
                   <l>And virtue charms without a dower;</l>
                   <l>
-                     <pb n="68" facs="tcp:032439_0057_0FF264B82F2EC028"/>
+                     <pb n="68" facs="unknown:032439_0057_0FF264B82F2EC028"/>
 While manners thus unſtain'd we ſee,</l>
                   <l>All hail the ſweets of Maſonry!</l>
                </lg>
@@ -1711,7 +1713,7 @@ While manners thus unſtain'd we ſee,</l>
                <l>'TIS Maſonry unites mankind,</l>
                <l>To generous actions forms the ſoul;</l>
                <l>
-                  <pb n="69" facs="tcp:032439_0058_0FF264C071BE2D38"/>
+                  <pb n="69" facs="unknown:032439_0058_0FF264C071BE2D38"/>
 So ſtrict in union we're combin'd,</l>
                <l>One ſpirit animates the whole.</l>
                <lg>
@@ -1743,7 +1745,7 @@ So ſtrict in union we're combin'd,</l>
                   <l>Their choiceſt favours ſtill we claim</l>
                </lg>
                <lg>
-                  <pb n="70" facs="tcp:032439_0059_0FF264C220AF2448"/>
+                  <pb n="70" facs="unknown:032439_0059_0FF264C220AF2448"/>
                   <l>From us pale diſcord long has fied,</l>
                   <l>With all her train of mortal ſpite;</l>
                   <l>Nor in our Lodge dares ſhew her head,</l>
@@ -1778,7 +1780,7 @@ So ſtrict in union we're combin'd,</l>
                   <l>Charm more and more.</l>
                </lg>
                <lg>
-                  <pb n="71" facs="tcp:032439_0060_0FF264C5EABD7F70"/>
+                  <pb n="71" facs="unknown:032439_0060_0FF264C5EABD7F70"/>
                   <l>When in the Lodge we're met,</l>
                   <l>And in due order ſet,</l>
                   <l>Happy are we:</l>
@@ -1806,7 +1808,7 @@ So ſtrict in union we're combin'd,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="72" facs="tcp:032439_0061_0FF264CBD21A27C0"/>
+               <pb n="72" facs="unknown:032439_0061_0FF264CBD21A27C0"/>
                <head>SONG.</head>
                <p>[<hi>Tune</hi> God ſave the King.]</p>
                <lg>
@@ -1841,7 +1843,7 @@ So ſtrict in union we're combin'd,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="73" facs="tcp:032439_0062_0FF264CD7285B740"/>
+               <pb n="73" facs="unknown:032439_0062_0FF264CD7285B740"/>
                <head>SONG.</head>
                <byline>[By Brother NOORTHUCK.]</byline>
                <lg>
@@ -1872,7 +1874,7 @@ So ſtrict in union we're combin'd,</l>
                   <l>Within his well-fram'd doors.</l>
                </lg>
                <lg>
-                  <pb n="74" facs="tcp:032439_0063_0FF264D1664B8720"/>
+                  <pb n="74" facs="unknown:032439_0063_0FF264D1664B8720"/>
                   <l>When ſtately palaces ariſe,</l>
                   <l>When columns grace the hall,</l>
                   <l>When towers and ſpires ſalute the ſkies,</l>
@@ -1901,7 +1903,7 @@ So ſtrict in union we're combin'd,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="75" facs="tcp:032439_0064_0FF264D7450FC6C0"/>
+               <pb n="75" facs="unknown:032439_0064_0FF264D7450FC6C0"/>
                <head>SONG.</head>
                <l>YE thrice happy few</l>
                <l>Whoſe hearts have been true,</l>
@@ -1931,7 +1933,7 @@ So ſtrict in union we're combin'd,</l>
                   <l>Fair treaſure of arts,</l>
                   <l>To the eye of the vulger unknown;</l>
                   <l>
-                     <pb n="76" facs="tcp:032439_0065_0FF264DAFB0B4BA0"/>
+                     <pb n="76" facs="unknown:032439_0065_0FF264DAFB0B4BA0"/>
 Whoſe luſtre can beam</l>
                   <l>New ſplendor and ſame</l>
                   <l>To the pulpit, the bar, and the throne.</l>
@@ -1965,7 +1967,7 @@ Whoſe luſtre can beam</l>
                   <l>Our myſteries dread,</l>
                   <l>Or think them repugnant to love;</l>
                   <l>
-                     <pb n="77" facs="tcp:032439_0066_0FF264DC9CAD3790"/>
+                     <pb n="77" facs="unknown:032439_0066_0FF264DC9CAD3790"/>
 To beauty we bend,</l>
                   <l>Her empire defend,</l>
                   <l>An empire deriv'd from above.</l>
@@ -1993,7 +1995,7 @@ To beauty we bend,</l>
                   <l>Give the Word and the Blow, that workmen may know,</l>
                   <l>There's one aſks to be made a Free<g ref="char:EOLhyphen"/>maſon</l>
                   <l>
-                     <pb n="78" facs="tcp:032439_0067_0FF264DE462610F0"/>
+                     <pb n="78" facs="unknown:032439_0067_0FF264DE462610F0"/>
 The Maſter ſtands due and his officers too,</l>
                   <l>While the craftſmen are plying their ſtation;</l>
                   <l>The apprentices ſtand, right for the command</l>
@@ -2017,7 +2019,7 @@ The Maſter ſtands due and his officers too,</l>
                   <l>We work and we ſing, the Craft and the king,</l>
                   <l>'Tis both duty and choice in a Maſon.</l>
                   <l>
-                     <pb n="79" facs="tcp:032439_0068_0FF264E20D0ED1B8"/>
+                     <pb n="79" facs="unknown:032439_0068_0FF264E20D0ED1B8"/>
 What is ſaid or is done, is here truly laid down</l>
                   <l>In this form of our high inſtallation;</l>
                   <l>Yet I challenge all men to know what I mean,</l>
@@ -2043,7 +2045,7 @@ What is ſaid or is done, is here truly laid down</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="80" facs="tcp:032439_0069_0FF264E5C7C10028"/>
+               <pb n="80" facs="unknown:032439_0069_0FF264E5C7C10028"/>
                <head>SONG.</head>
                <lg>
                   <l>HOW happy a Maſon whoſe boſom ſtill glows</l>
@@ -2068,7 +2070,7 @@ What is ſaid or is done, is here truly laid down</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="81" facs="tcp:032439_0070_0FF264EBB8B07380"/>
+               <pb n="81" facs="unknown:032439_0070_0FF264EBB8B07380"/>
                <head>SONG.</head>
                <head>[On the revival of Maſonry.]</head>
                <p>[<hi>Tune,</hi> Vicar of Bray.]</p>
@@ -2101,7 +2103,7 @@ What is ſaid or is done, is here truly laid down</l>
                      <hi>Cho.</hi> Now virtue bright, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="82" facs="tcp:032439_0071_0FF264F1B08BAC60"/>
+                  <pb n="82" facs="unknown:032439_0071_0FF264F1B08BAC60"/>
                   <l>Since Maſonry's reviv'd once more,</l>
                   <l>Purſue her wiſe directions,</l>
                   <l>Let circumſpection go be before,</l>
@@ -2135,7 +2137,7 @@ What is ſaid or is done, is here truly laid down</l>
                   <l>May every lodge ſecurely ſtand,</l>
                   <l>Againſt the ſtorms of faction;</l>
                   <l>
-                     <pb n="83" facs="tcp:032439_0072_0FF264F570127520"/>
+                     <pb n="83" facs="unknown:032439_0072_0FF264F570127520"/>
 May Love and Peace,</l>
                   <l>Each day encreaſe,</l>
                   <l>Throughout this happy nation,</l>
@@ -2168,7 +2170,7 @@ May Love and Peace,</l>
                   <l>To each true brother's dear:</l>
                   <l>Then ſtrike the blow, to charge prepare,</l>
                   <l>
-                     <pb n="84" facs="tcp:032439_0073_0FF264FB708FCEF8"/>
+                     <pb n="84" facs="unknown:032439_0073_0FF264FB708FCEF8"/>
 In this we all agree.</l>
                   <l>May fredom be each Maſon's care,</l>
                   <l>And ev'ry maſon free.</l>
@@ -2203,7 +2205,7 @@ In this we all agree.</l>
                      <hi>Cho.</hi> Let your hearts, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="85" facs="tcp:032439_0074_0FF2650152C534D0"/>
+                  <pb n="85" facs="unknown:032439_0074_0FF2650152C534D0"/>
                   <l>Social pleaſures here invite,</l>
                   <l>To fill the ſoul with ſweet delight,</l>
                   <l>While hand in hand</l>
@@ -2239,7 +2241,7 @@ In this we all agree.</l>
                   <l>Of great Princes and Kings,</l>
                   <l>To no ſuch does my ditty belong:</l>
                   <l>
-                     <pb n="86" facs="tcp:032439_0075_0FF265030BAFDDF8"/>
+                     <pb n="86" facs="unknown:032439_0075_0FF265030BAFDDF8"/>
 To no ſuch does my ditty belong:</l>
                   <l>Tis fredom I praiſe,</l>
                   <l>That demands all my lays,</l>
@@ -2273,7 +2275,7 @@ To no ſuch does my ditty belong:</l>
                      <hi>Cho.</hi> In friendſhip we dwell, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="87" facs="tcp:032439_0076_0FF26506CE55D878"/>
+                  <pb n="87" facs="unknown:032439_0076_0FF26506CE55D878"/>
                   <l>In our myſtical ſchool,</l>
                   <l>We muſt all work by rule,</l>
                   <l>And our ſecrets we always conceal;</l>
@@ -2305,7 +2307,7 @@ To no ſuch does my ditty belong:</l>
                   <l>WHEN the Sun from the Eaſt firſt ſalutes mortal eyes,</l>
                   <l>And the ſky-lark melodiouſly bids us ariſe;</l>
                   <l>
-                     <pb n="88" facs="tcp:032439_0077_0FF2650CA83B8F80"/>
+                     <pb n="88" facs="unknown:032439_0077_0FF2650CA83B8F80"/>
 With our hearts full of joy, we the ſum<g ref="char:EOLhyphen"/>mons obey,</l>
                   <l>Straight repair to our work, and to moiſten our clay.</l>
                   <l>On the traſſel our Maſter draws angles and lines,</l>
@@ -2321,7 +2323,7 @@ With our hearts full of joy, we the ſum<g ref="char:EOLhyphen"/>mons obey,</l>
                   <l>Perfect aſhlers ſome finiſh, ſome make the rough plain,</l>
                   <l>All are pleas'd with their work, and are pleas'd with their gain.</l>
                   <l>
-                     <pb n="89" facs="tcp:032439_0078_0FF2650E4B9A46A0"/>
+                     <pb n="89" facs="unknown:032439_0078_0FF2650E4B9A46A0"/>
 When my Maſter I've ſerv'd ſeven years, perhaps more,</l>
                   <l>Some ſecrets he'll tell me I ne'er knew before;</l>
                   <l>In my boſom I'll keep them as long as I live,</l>
@@ -2349,7 +2351,7 @@ When my Maſter I've ſerv'd ſeven years, perhaps more,</l>
                   <l>And in ourſelves ſecure:</l>
                   <l>We have compaſſion for thoſe fools</l>
                   <l>
-                     <pb n="90" facs="tcp:032439_0079_0FF26510145E89E0"/>
+                     <pb n="90" facs="unknown:032439_0079_0FF26510145E89E0"/>
 Who think our acts impure:</l>
                   <l>We know from Ignorance proceeds</l>
                   <l>Such mean opinion of our deeds;</l>
@@ -2385,7 +2387,7 @@ Who think our acts impure:</l>
                   <l>Tells us wine</l>
                   <l>Cheers the body and the ſoul.</l>
                   <l>
-                     <pb n="91" facs="tcp:032439_0080_0FF2651C67C7CEB0"/>
+                     <pb n="91" facs="unknown:032439_0080_0FF2651C67C7CEB0"/>
 We're always men of pleaſure,</l>
                   <l>Deſpiſing pride and party:</l>
                   <l>While knaves and fools</l>
@@ -2418,7 +2420,7 @@ We're always men of pleaſure,</l>
                   <l>The pride of all the virgin throng,</l>
                   <l>Thus to her lover ſaid,</l>
                   <l>
-                     <pb n="92" facs="tcp:032439_0081_0FF265202EBEF310"/>
+                     <pb n="92" facs="unknown:032439_0081_0FF265202EBEF310"/>
 Tho' Damon I your flame approve,</l>
                   <l>Your actions praiſe, your perſon love,</l>
                   <l>Yet ſtill I'll live a maid.</l>
@@ -2449,7 +2451,7 @@ Tho' Damon I your flame approve,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="93" facs="tcp:032439_0082_0FF26521CE3B95D0"/>
+               <pb n="93" facs="unknown:032439_0082_0FF26521CE3B95D0"/>
                <head>SONG.</head>
                <lg>
                   <l>HAIL ſecret art! by heav'n deſign'd</l>
@@ -2481,7 +2483,7 @@ Tho' Damon I your flame approve,</l>
                   <l>Then let us, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="94" facs="tcp:032439_0083_0FF2652399547F40"/>
+                  <pb n="94" facs="unknown:032439_0083_0FF2652399547F40"/>
                   <l>The noble art divinely rear'd</l>
                   <l>Uprightly built upon the ſquare;</l>
                   <l>Encompaſs'd by the powers divine,</l>
@@ -2519,7 +2521,7 @@ Tho' Damon I your flame approve,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="95" facs="tcp:032439_0084_0FF2652755352360"/>
+               <pb n="95" facs="unknown:032439_0084_0FF2652755352360"/>
                <head>SONG.</head>
                <p>[<hi>Tune,</hi> By Jove I'll be free.]</p>
                <lg>
@@ -2541,7 +2543,7 @@ Tho' Damon I your flame approve,</l>
                   <l>By points of good fellowſhip we ſtill accord,</l>
                   <l>Obſerving each Brother's true ſign, grip, and word;</l>
                   <l>
-                     <pb n="96" facs="tcp:032439_0085_0FF2652B0EE7D778"/>
+                     <pb n="96" facs="unknown:032439_0085_0FF2652B0EE7D778"/>
 Which from our Great Architect was handed down,</l>
                   <l>And ne'er will to any but Maſons be known;</l>
                   <l>Then here's to our Brethron of every degree,</l>
@@ -2568,7 +2570,7 @@ Which from our Great Architect was handed down,</l>
                   <l>We aſk no ſound of ſpear or ſhield,</l>
                   <l>No trophics of th' enſanguin'd field;</l>
                   <l>
-                     <pb n="97" facs="tcp:032439_0086_0FF2652CAC342598"/>
+                     <pb n="97" facs="unknown:032439_0086_0FF2652CAC342598"/>
 Let Hope, let Faith and Charity,</l>
                   <l>Begin and end our Jubilee.</l>
                </lg>
@@ -2604,7 +2606,7 @@ Let Hope, let Faith and Charity,</l>
                   <l>From heaven, and bleſs our Jubilee!</l>
                </lg>
                <lg>
-                  <pb n="98" facs="tcp:032439_0087_0FF26598B6376118"/>
+                  <pb n="98" facs="unknown:032439_0087_0FF26598B6376118"/>
                   <l>Lo! from his great or little ſtore,</l>
                   <l>Each Brother flies his mite to pour,</l>
                   <l>That men may ſtill rejoice to ſee,</l>
@@ -2638,7 +2640,7 @@ Let Hope, let Faith and Charity,</l>
                   <l>All ſtumbling blocks he took away,</l>
                   <l>That I might walk ſecure;</l>
                   <l>
-                     <pb n="99" facs="tcp:032439_0088_0FF2653662328C10"/>
+                     <pb n="99" facs="unknown:032439_0088_0FF2653662328C10"/>
 And brought me long e'er break of day,</l>
                   <l>To Sol's bright temple door;</l>
                   <l>Where there we both admittance found,</l>
@@ -2669,7 +2671,7 @@ And brought me long e'er break of day,</l>
                   <l>That quite diſpell'd all doubt and fear.</l>
                </lg>
                <lg>
-                  <pb n="100" facs="tcp:032439_0089_0FF2653802C3D708"/>
+                  <pb n="100" facs="unknown:032439_0089_0FF2653802C3D708"/>
                   <l>The guardian of this myſtic charm,</l>
                   <l>In ſhining jewels dreſt;</l>
                   <l>Said, that I need to fear no harm,</l>
@@ -2695,7 +2697,7 @@ And brought me long e'er break of day,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="101" facs="tcp:032439_0090_0FF26539A549EDD0"/>
+               <pb n="101" facs="unknown:032439_0090_0FF26539A549EDD0"/>
                <head>Warden's SONG.</head>
                <lg>
                   <l>MY tongue ſhall ever run</l>
@@ -2724,7 +2726,7 @@ And brought me long e'er break of day,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="102" facs="tcp:032439_0091_0FF2653FE4473758"/>
+               <pb n="102" facs="unknown:032439_0091_0FF2653FE4473758"/>
                <head>Grand Wardens SONG.</head>
                <lg>
                   <l>LET Maſonry be now my theme,</l>
@@ -2752,7 +2754,7 @@ And brought me long e'er break of day,</l>
                      <hi>Cho.</hi> Sing then, my muſe, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="103" facs="tcp:032439_0092_0FF26543A7175EB8"/>
+                  <pb n="103" facs="unknown:032439_0092_0FF26543A7175EB8"/>
                   <l>Let ancient Maſons health's go round,</l>
                   <l>In ſwelling cups all cares be drown'd,</l>
                   <l>And hearts united 'mongſt the Craft be found;</l>
@@ -2781,7 +2783,7 @@ And brought me long e'er break of day,</l>
                   <l>Let bumpers cheerfully be quaff'd,</l>
                   <l>To each good Maſon's name;</l>
                   <l>
-                     <pb n="104" facs="tcp:032439_0093_0FF2654BABCC4BA8"/>
+                     <pb n="104" facs="unknown:032439_0093_0FF2654BABCC4BA8"/>
 Happy, long happy may he be,</l>
                   <l>Who lobes and honours Maſonry;</l>
                   <l>With a fa, la, la, &amp;c.</l>
@@ -2814,7 +2816,7 @@ Happy, long happy may he be,</l>
                   <l>Baniſh all darkneſs quite,</l>
                   <l>With ſuch refulgent light,</l>
                   <l>
-                     <pb n="105" facs="tcp:032439_0094_0FF2654F8A506568"/>
+                     <pb n="105" facs="unknown:032439_0094_0FF2654F8A506568"/>
 And from eternal night,</l>
                   <l>Save ROYALS all.</l>
                </lg>
@@ -2846,7 +2848,7 @@ And from eternal night,</l>
                   <l>Who grace this happy land,</l>
                   <l>With valiant Knights:</l>
                   <l>
-                     <pb n="106" facs="tcp:032439_0095_0FF265513756B7B0"/>
+                     <pb n="106" facs="unknown:032439_0095_0FF265513756B7B0"/>
 May the united Three,</l>
                   <l>Of the bleſt Trinity,</l>
                   <l>Cement the unity</l>
@@ -2877,7 +2879,7 @@ May the united Three,</l>
                   <l>At length great lights we ſaw,</l>
                   <l>And poor old Simon too,</l>
                   <l>
-                     <pb n="107" facs="tcp:032439_0096_0FF2655500ABB120"/>
+                     <pb n="107" facs="unknown:032439_0096_0FF2655500ABB120"/>
 Alſo the word and law,</l>
                   <l>Glory and praiſe.</l>
                </lg>
@@ -2914,7 +2916,7 @@ Alſo the word and law,</l>
                   <l>And ſhew that your types are from above.</l>
                </lg>
                <lg>
-                  <pb n="108" facs="tcp:032439_0097_0FF2655D1282EC10"/>
+                  <pb n="108" facs="unknown:032439_0097_0FF2655D1282EC10"/>
                   <head>CHORUS.</head>
                   <l>Live Free-maſons, Free-maſons live and love,</l>
                   <l>And ſhew that your types are from above.</l>
@@ -2946,7 +2948,7 @@ Alſo the word and law,</l>
                   <l>Tho' babblers may prattle in ſhewing their ſpleen,</l>
                   <l>Their ſpite we compare to the drone,</l>
                   <l>
-                     <pb n="109" facs="tcp:032439_0098_0FF265611DB6B468"/>
+                     <pb n="109" facs="unknown:032439_0098_0FF265611DB6B468"/>
 The world is in pain our ſecrets to gain,</l>
                   <l>In ignorance let them think on,</l>
                   <l>For in ſweet harmony, in love we'll agree.</l>
@@ -2972,7 +2974,7 @@ The world is in pain our ſecrets to gain,</l>
                   <l>YE dull ſtupid mortals, give o'er your conjectures,</l>
                   <l>Since free maſons ſecrets you ne'er can obtain;</l>
                   <l>
-                     <pb n="110" facs="tcp:032439_0099_0FF26565263E8AE8"/>
+                     <pb n="110" facs="unknown:032439_0099_0FF26565263E8AE8"/>
 The bible and compaſs are our directors,</l>
                   <l>And ſhall be as long as this world doth remain.</l>
                   <l>Here friendſhip inviting, here freedom delighting.</l>
@@ -2996,7 +2998,7 @@ The bible and compaſs are our directors,</l>
                   <l>To aid one another we always are ready,</l>
                   <l>Our rights and our ſecrets we care<g ref="char:EOLhyphen"/>fully guard;</l>
                   <l>
-                     <pb n="111" facs="tcp:032439_0100_0FF26568F0F32890"/>
+                     <pb n="111" facs="unknown:032439_0100_0FF26568F0F32890"/>
 The lodge to ſupport, we like pillars are ſteady,</l>
                   <l>No Babal confuſion our work can re<g ref="char:EOLhyphen"/>tard.</l>
                   <l>Ye mortals come hither, aſſemble to<g ref="char:EOLhyphen"/>gether,</l>
@@ -3019,7 +3021,7 @@ The lodge to ſupport, we like pillars are ſteady,</l>
                   <l>WHEN Heaven deſign'd that man ſhould know</l>
                   <l>All that was good and great below;</l>
                   <l>
-                     <pb n="112" facs="tcp:032439_0101_0FF2656ED53127D8"/>
+                     <pb n="112" facs="unknown:032439_0101_0FF2656ED53127D8"/>
 This was the happy, choice decree,</l>
                   <l>The bleſſings of Free-maſonry.</l>
                </lg>
@@ -3054,7 +3056,7 @@ This was the happy, choice decree,</l>
                   <l>But from the help of Maſonry.</l>
                </lg>
                <lg>
-                  <pb n="113" facs="tcp:032439_0102_0FF2657074FC0A88"/>
+                  <pb n="113" facs="unknown:032439_0102_0FF2657074FC0A88"/>
                   <l>An edifice we're proud to own.</l>
                   <l>Of wood not made, nor yet of ſtone;</l>
                   <l>Whoſe angles, ſquares, and ſymetry,</l>
@@ -3085,7 +3087,7 @@ This was the happy, choice decree,</l>
                   <l>'till we open, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="114" facs="tcp:032439_0103_0FF265722F17ADE8"/>
+                  <pb n="114" facs="unknown:032439_0103_0FF265722F17ADE8"/>
                   <l>Whoever is know for to act on the ſquare,</l>
                   <l>And likewiſe well ſkill'd in our ſecrets rare,</l>
                   <l>Are always reſpected whether wealthy or poor,</l>
@@ -3105,7 +3107,7 @@ This was the happy, choice decree,</l>
                   <l>The SANCTUM SANCTORUM by Ma<g ref="char:EOLhyphen"/>ſons is fram'd,</l>
                   <l>And all the fine works which the Tem<g ref="char:EOLhyphen"/>ple contain'd,</l>
                   <l>
-                     <pb n="123" facs="tcp:032439_0104_0FF2657403D73720"/>
+                     <pb n="123" facs="unknown:032439_0104_0FF2657403D73720"/>
 Undivulg'd their own ſecrets, to you'll be ſincere;</l>
                   <l>Which nobody, &amp;c.</l>
                </lg>
@@ -3142,7 +3144,7 @@ Undivulg'd their own ſecrets, to you'll be ſincere;</l>
                   <l>Let envy hide her ſhameful face,</l>
                   <l>Before us ancient ſons of peace;</l>
                   <l>
-                     <pb n="124" facs="tcp:032439_0105_0FF2657BFAE9F090"/>
+                     <pb n="124" facs="unknown:032439_0105_0FF2657BFAE9F090"/>
 Whoſe golden precepts ſtill remain,</l>
                   <l>Free from envy, pride or ſtain.</l>
                </lg>
@@ -3176,7 +3178,7 @@ Whoſe golden precepts ſtill remain,</l>
                   <l>Was a Free and an Accepted Maſon.</l>
                </lg>
                <lg>
-                  <pb n="125" facs="tcp:032439_0106_0FF2657D9C6E0F98"/>
+                  <pb n="125" facs="unknown:032439_0106_0FF2657D9C6E0F98"/>
                   <l>When <hi>Pharoah,</hi> the King</l>
                   <l>Of Egypt, did bring</l>
                   <l>To bondage our whole generation;</l>
@@ -3205,7 +3207,7 @@ Whoſe golden precepts ſtill remain,</l>
                   <l>Was known to be free,</l>
                   <l>Built a holy grand lodge for his nation;</l>
                   <l>
-                     <pb n="126" facs="tcp:032439_0107_0FF2657F5CAEBE30"/>
+                     <pb n="126" facs="unknown:032439_0107_0FF2657F5CAEBE30"/>
 Each beautiful part</l>
                   <l>Was due to the Art</l>
                   <l>Of <hi>Hiram,</hi> the great learned Maſon.</l>
@@ -3232,7 +3234,7 @@ Each beautiful part</l>
                   <l>Our lodge now compos'd of honeſt free hearts,</l>
                   <l>Our Maſter moſt freely his ſecrets im<g ref="char:EOLhyphen"/>parts;</l>
                   <l>
-                     <pb n="127" facs="tcp:032439_0108_0FF2658104F539E0"/>
+                     <pb n="127" facs="unknown:032439_0108_0FF2658104F539E0"/>
 And ſo we improve,</l>
                   <l>In knowledge and love,</l>
                   <l>By help from our mighty Grand-Maſter above.</l>
@@ -3258,7 +3260,7 @@ And ſo we improve,</l>
                   <l>WHEN Maſonry, by heaven's deſign,</l>
                   <l>Did enter firſt into Hiram's brain,</l>
                   <l>
-                     <pb n="128" facs="tcp:032439_0109_0FF2658D762CE580"/>
+                     <pb n="128" facs="unknown:032439_0109_0FF2658D762CE580"/>
 A Choir of Angles did rejoice,</l>
                   <l>And this Chorus ſung with united voice,</l>
                </lg>
@@ -3289,7 +3291,7 @@ A Choir of Angles did rejoice,</l>
                   <l>Hail! you happy, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="129" facs="tcp:032439_0110_0FF2658F16F15E08"/>
+                  <pb n="129" facs="unknown:032439_0110_0FF2658F16F15E08"/>
                   <l>Next charge unto our Maſter Grand,</l>
                   <l>And to each lovely fair one round the land,</l>
                   <l>Ourſelves including, ſo let the health go round</l>
@@ -3318,7 +3320,7 @@ A Choir of Angles did rejoice,</l>
                   <l>And a Grand Lodge have made;</l>
                   <l>And a Grand Lodge have made.</l>
                   <l>
-                     <pb n="130" facs="tcp:032439_0111_0FF26590B6D4AAB8"/>
+                     <pb n="130" facs="unknown:032439_0111_0FF26590B6D4AAB8"/>
                      <hi>Green Mountain</hi> Brothers by a ſign,</l>
                   <l>Like <hi>Salem</hi>'s Sons each other join,</l>
                   <l>And Maſonry have ſpread;</l>
@@ -3347,7 +3349,7 @@ A Choir of Angles did rejoice,</l>
             </div>
          </div>
          <div type="prologue">
-            <pb facs="tcp:032439_0112_0FF265306994D238"/>
+            <pb facs="unknown:032439_0112_0FF265306994D238"/>
             <head>PROLOGUE.</head>
             <head type="sub">A PROLOGUE ſpoken before a Play which had been commanded by an Encampment of KNIGHTS TEMPLARS.</head>
             <byline>Written by a BROTHER.</byline>
@@ -3361,7 +3363,7 @@ A Choir of Angles did rejoice,</l>
                <l>To paſs our lives in righteouſneſs and truth,</l>
                <l>To ſerve our brethern, and inſtruct our youth.</l>
                <l>
-                  <pb n="132" facs="tcp:032439_0113_0FF2659E95ECEA40"/>
+                  <pb n="132" facs="unknown:032439_0113_0FF2659E95ECEA40"/>
 Poor CYMON too, we awfully revere,—</l>
                <l>Are ſtrangers to ſervility and fear;</l>
                <l>Knights of an ancient order!—doom'd to trace</l>
@@ -3381,7 +3383,7 @@ Poor CYMON too, we awfully revere,—</l>
                <l>Why not?—When beauties ſuch as ye inſpire</l>
                <l>Our gallant Knights, and ſet their ſouls on fire;</l>
                <l>
-                  <pb n="133" facs="tcp:032439_0114_0FF265A280C36388"/>
+                  <pb n="133" facs="unknown:032439_0114_0FF265A280C36388"/>
 In lovely order,—ſee the poliſh'd rows,</l>
                <l>Their friendſhip for the Royal Craft diſcloſe;</l>
                <l>The ſecret faithful Craft—who joys can feel,</l>
@@ -3395,7 +3397,7 @@ In lovely order,—ſee the poliſh'd rows,</l>
             </lg>
          </div>
          <div type="epilogues">
-            <pb facs="tcp:032439_0115_0FF265A64EE6ED18"/>
+            <pb facs="unknown:032439_0115_0FF265A64EE6ED18"/>
             <head>EPILOGUES.</head>
             <div type="epilogue">
                <head>EPILOGUE.</head>
@@ -3413,7 +3415,7 @@ In lovely order,—ſee the poliſh'd rows,</l>
                   <l>And oft their favours have beſtow'd in vain,</l>
                   <l>Nor cou'd one ſecret for another gain:</l>
                   <l>
-                     <pb n="135" facs="tcp:032439_0116_0FF265AC2D2E19E0"/>
+                     <pb n="135" facs="unknown:032439_0116_0FF265AC2D2E19E0"/>
 I thought, unable to explain the matter,</l>
                   <l>Each Maſon ſure muſt be a woman<g ref="char:EOLhyphen"/>hater:</l>
                   <l>With ſudden fear and diſmal horror ſtruck,</l>
@@ -3437,7 +3439,7 @@ I thought, unable to explain the matter,</l>
                </lg>
             </div>
             <div type="epilogue">
-               <pb n="136" facs="tcp:032439_0117_0FF265AFFA4315B8"/>
+               <pb n="136" facs="unknown:032439_0117_0FF265AFFA4315B8"/>
                <head>EPILOGUE.</head>
                <lg>
                   <l>WELL, here I'm come to let you know my thoughts;</l>
@@ -3458,7 +3460,7 @@ I thought, unable to explain the matter,</l>
                   <l>To wheedle out this ſecret, fruitleſs prove?</l>
                   <l>For we can wheedle when we hope to move.</l>
                   <l>
-                     <pb n="137" facs="tcp:032439_0118_0FF265B5D9D35FB8"/>
+                     <pb n="137" facs="unknown:032439_0118_0FF265B5D9D35FB8"/>
 What can it mean, why all this mighty pother,</l>
                   <l>Theſe myſtic ſigns, and ſolemn calling, BROTHER?</l>
                   <l>That we are qualified in ſigns, are known,</l>
@@ -3479,7 +3481,7 @@ What can it mean, why all this mighty pother,</l>
             </div>
          </div>
          <div type="toasts">
-            <pb facs="tcp:032439_0119_0FF265B7788D7A60"/>
+            <pb facs="unknown:032439_0119_0FF265B7788D7A60"/>
             <head>TOASTS.</head>
             <lg>
                <l>OUR right worſhipful Grand Maſter.</l>
@@ -3496,7 +3498,7 @@ What can it mean, why all this mighty pother,</l>
                <l>May <hi>wiſdom</hi> contrive our happineſs; <hi>ſtrength</hi> ſupport our virtuous reſolutions; and <hi>beauty</hi> adorn our beds.</l>
                <l>To all the fair who are well-wiſhers to the ſecred Art.</l>
                <l>
-                  <pb n="139" facs="tcp:032439_0120_0FF265BB344ADB28"/>
+                  <pb n="139" facs="unknown:032439_0120_0FF265BB344ADB28"/>
 May our wiſdom be as conſpicuous to our ſiſters, as the wiſdom of our Grand Maſter Solomon was to the Queen of Sheba.</l>
                <l>May we enter apprentices to <hi>Virtue;</hi> be fellow Craft with <hi>Charity;</hi> and be al<g ref="char:EOLhyphen"/>ways <hi>Maſters</hi> of our paſſions.</l>
                <l>May <hi>virtue</hi> and <hi>brotherly love</hi> be our <hi>rule</hi> and <hi>guide</hi> through life.</l>
@@ -3513,7 +3515,7 @@ May our wiſdom be as conſpicuous to our ſiſters, as the wiſdom of our Grand
                <l>May every Free and Accepted Maſon rule in the <hi>eaſt,</hi> find refreſhment in the <hi>ſouth,</hi> be diſmiſſed in the <hi>weſt,</hi> and then be admitted into the <hi>middle chamber,</hi> to receive the reward of a GOOD MAN.</l>
                <l>To all the female friends of Free-ma<g ref="char:EOLhyphen"/>ſons.</l>
                <l>
-                  <pb n="140" facs="tcp:032439_0121_0FF265BEEFBE1778"/>
+                  <pb n="140" facs="unknown:032439_0121_0FF265BEEFBE1778"/>
 To the memory of the Tyrian Artiſt.</l>
                <l>Proſperity to the ancient and honour<g ref="char:EOLhyphen"/>able Craft.</l>
                <l>To the ſecret and ſilent.</l>
